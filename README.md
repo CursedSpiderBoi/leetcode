@@ -1,5 +1,3 @@
-# leetcode
-
 ## Note :- Questions done are in Codes Subfolder, adding description Slowly
 
  A repo for my LeetCode submissions
