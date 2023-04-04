@@ -4,3 +4,7 @@
 - Beginner Friendly\n
 Original Approach 
 UwU
+
+# LeetCode Problem Solved
+| Name                | Algorithms | Tags |
+| --------------------|:-----------|:----:|
