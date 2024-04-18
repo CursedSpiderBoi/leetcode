@@ -16,6 +16,7 @@ Original Approach
 |[Roman To Interger](https://leetcode.com/problems/roman-to-integer/)|  | HashTable, Math, String
 |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| | HashTable, Math, Backtracking
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|  | String, Stack
+| [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)|  | Array, Depth-First Search, Breadth-First Search, Matrix
 
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/36265577/CursedSpiderBoi/leetcode/recent-activity/zL8Dcz_ak3ts61YcUCKK-MD8zNesvyBQvsApPqkzRKo/v_e_BcnYIqQWoqYpMlwUXdCd-E0YTUKSaxZ-Gjh0I2M_badge.svg)](https://repography.com)
