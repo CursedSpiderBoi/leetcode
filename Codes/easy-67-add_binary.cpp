@@ -1,4 +1,11 @@
 class Solution {
+
+/**
+* When given two binary strings a and b return their sum as a binary string.
+* @param a Binary string one
+* @param b Binary string two
+*/ 
+
 public:
 
     string addBinary(string a, string b) {
