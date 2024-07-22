@@ -1,4 +1,11 @@
 class Solution {
+
+/* When given a 'row x col' grid representing a map where 'grid[i][j] = 1' represents land and 'grid[i][j] = 0' represents water,
+*  Grid cells are connected horizontally/vertically only, and there is exactly one island (i.e., one or more connected land cells).
+*  One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100. 
+*  The finished method calculates the perimeter of the island.
+*/
+
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
         int perimeter = 0;
