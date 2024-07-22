@@ -9,6 +9,12 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+/** 
+* When given a binary tree, based on the definition, determine if it is 'height-balanced'
+* @param root The root node of the tree
+*/
+
 class Solution {    
 	int Height(TreeNode* root) {
 		if (root == NULL) 
