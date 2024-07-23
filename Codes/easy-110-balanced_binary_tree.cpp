@@ -3,6 +3,7 @@
 // Based on the definition, return true if the tree is height-balanced, return false if it is imbalanced.
 
 
+
 //Example 1:
 
 //Input: root = [3,9,20,null,null,15,7]
@@ -17,6 +18,8 @@
 
 //Input: root = []
 //Output: true
+
+
 
 /**
  * Definition for a binary tree node.
