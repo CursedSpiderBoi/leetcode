@@ -32,6 +32,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
 class Solution {    
 	int Height(TreeNode* root) {
 		if (root == NULL) 
