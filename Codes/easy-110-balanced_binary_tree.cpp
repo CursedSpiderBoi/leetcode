@@ -1,3 +1,23 @@
+// You are given a binary tree consisting of random integers(nodes).
+
+// Based on the definition, return true if the tree is height-balanced, return false if it is imbalanced.
+
+
+//Example 1:
+
+//Input: root = [3,9,20,null,null,15,7]
+//Output: true
+
+//Example 2:
+
+//Input: root = [1,2,2,3,3,null,null,4,4]
+//Output: false
+
+//Example 3:
+
+//Input: root = []
+//Output: true
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -9,12 +29,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-/** 
-* When given a binary tree, based on the definition, determine if it is 'height-balanced'
-* @param root The root node of the tree
-*/
-
 class Solution {    
 	int Height(TreeNode* root) {
 		if (root == NULL) 
