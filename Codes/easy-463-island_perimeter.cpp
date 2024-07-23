@@ -1,3 +1,30 @@
+// You are given a 'row x col' grid representing a map where 'grid[i][j] = 1' represents land and 'grid[i][j] = 0' represents water.
+
+// Grid cells are connected horizontally/vertically only, and there is exactly one island (i.e., one or more connected land cells).
+
+// One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100.
+
+// Calculate and return the perimeter of the island.
+
+
+
+// Example 1:
+
+// Input: grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]
+// Output: 16
+// Explanation: The perimeter is the 16 yellow stripes in the image above.
+
+// Example 2:
+
+// Input: grid = [[1]]
+// Output: 4
+
+// Example 3:
+
+// Input: grid = [[1,0]]
+// Output: 4
+
+
 class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
