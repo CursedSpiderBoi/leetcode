@@ -1,6 +1,21 @@
-//need improvement
+// You are given n pairs of parentheses.
+
+// Write a function to generate all combinations of well-formed parentheses(i.e., closed pair '()').
+
+ 
+
+// Example 1:
+
+// Input: n = 3
+// Output: ["((()))","(()())","(())()","()(())","()()()"]
+
+// Example 2:
+
+// Input: n = 1
+// Output: ["()"]
 
 class Solution {
+    //need improvement
     bool isValid(string s) {
 		stack<char> yes;
 		yes.push(s[0]);
