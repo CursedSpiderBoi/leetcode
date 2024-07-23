@@ -18,6 +18,7 @@
 // Output: -1
 // Explanation: 2 does not exist in nums so return -1
 
+
 class Solution {
 public:
     int search(vector<int>& v, int k) {
