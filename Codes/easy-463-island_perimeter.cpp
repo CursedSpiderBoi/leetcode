@@ -24,6 +24,7 @@
 // Input: grid = [[1,0]]
 // Output: 4
 
+
 class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
